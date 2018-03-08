@@ -45,7 +45,37 @@ top: 50%;
 left: 75%;
 right: 3%;
 font-size: 80%;
-]
+}
+
+.bottomlisttxt {
+	color: #ffffff;
+}
+
+.finaltxt {
+	color: #ffffff;
+}
+
+.galleryimg {
+	width: 300px;
+	float: left;
+	margin-left: 8%;
+	border: 2px solid #ffffff;
+	margin-bottom: 2%;
+
+
+}
+
+.gallery-body {
+	background-position: center;
+	background-repeat: no-repeat;
+	background: #a6a6a6;
+}
+
+.gallery-h1 {
+	border-bottom: 2px solid #000000;
+	width: 15%;
+	background: #666666;
+}
 
 
 
