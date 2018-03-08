@@ -45,8 +45,14 @@ top: 50%;
 left: 75%;
 right: 3%;
 font-size: 80%;
-]
+}
 
-
+.bottomlisttxt{
+color:white;
+position: absolute;
+top: 100%;
+left: 76%;
+right: 3%;
+font-size: 30px;
 
 
