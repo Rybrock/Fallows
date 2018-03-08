@@ -51,9 +51,6 @@ font-size: 80%;
 	color: #ffffff;
 }
 
-.finaltxt {
-	color: #ffffff;
-}
 
 .galleryimg {
 	width: 300px;
@@ -78,5 +75,14 @@ font-size: 80%;
 }
 
 
+.bottomlisttxt {
+color:white;
+position: absolute;
+top: 100%;
+left: 76%;
+right: 3%;
+font-size: 30px;
+
+}
 
 
