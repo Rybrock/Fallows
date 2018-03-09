@@ -21,7 +21,7 @@ width: 100%;
 }*/
 
 .mainheading {
-	font-size: 860%;
+font-size: 860%;
 font-family: "Dancing Script", cursive;
 color: red;
 position: absolute;
@@ -64,7 +64,40 @@ right: 2%;
 font-size: 120%;
 }
 
+
 .finaltxt {
+color:white;
+position: absolute;
+top: 970px;
+left: 75%;
+right: 6%;
+font-size: 130%;
+
+
+.galleryimg {
+	width: 300px;
+	float: left;
+	margin-left: 8%;
+	border: 2px solid #ffffff;
+	margin-bottom: 2%;
+
+
+}
+
+.gallery-body {
+	background-position: center;
+	background-repeat: no-repeat;
+	background: #a6a6a6;
+}
+
+.gallery-h1 {
+	border-bottom: 2px solid #000000;
+	width: 15%;
+	background: #666666;
+}
+
+
+.bottomlisttxt {
 color:white;
 position: absolute;
 top: 940px;
@@ -72,6 +105,8 @@ left: 76%;
 right: 2%;
 font-size: 20px;
 }
+
+
 
 
 
