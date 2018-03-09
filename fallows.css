@@ -3,56 +3,75 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 height: 100%;
-width: 100%
+width: 100%;
 }
 
 
+
+/* body {
+background-position: center;
+background-repeat: no-repeat;
+background: url(fallowsbackground.jpg);
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+height: 100%;
+width: 100%;
+}*/
+
 .mainheading {
-	font-family: "Dancing Script", cursive;
-	font-size: 800%
-
-
-
-}
-
-.mainheading {
+	font-size: 860%;
+font-family: "Dancing Script", cursive;
 color: red;
 position: absolute;
-top: 12%;
+top: 90px;
 left: 5%;
 }
 
 .firstsubhead {
 color: blue;
 position: absolute;
-top: 27%;
-left: 50%;
-font-size: 190%;
+top: 230px;
+left: 43%;
+font-size: 220%;
 }
 
 .toplisttxt {
 color:white;
 position: absolute;
-top: 35%;
-left: 60%;
-right: 3%;
+top: 283px;
+left: 55%;
+right: 8%;
+font-size: 130%;
 }
 
 .artistlist{
 color:white;
 position: absolute;
-top: 50%;
-left: 75%;
+top: 405px;
+left: 70%;
 right: 3%;
-font-size: 80%;
+font-size: 100%;
 }
 
-.bottomlisttxt{
+.artistlisttxt{
 color:white;
 position: absolute;
-top: 100%;
+top: 875px;
+left: 71%;
+right: 2%;
+font-size: 120%;
+}
+
+.finaltxt {
+color:white;
+position: absolute;
+top: 940px;
 left: 76%;
-right: 3%;
-font-size: 30px;
+right: 2%;
+font-size: 20px;
+}
+
 
 
