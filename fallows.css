@@ -67,8 +67,8 @@ font-size: 120%;
 .finaltxt {
 color:white;
 position: absolute;
-top: 920px;
-left: 20%;
+top: 960px;
+left: 50%;
 right: 6%;
 font-size: 130%;
 }
@@ -99,8 +99,8 @@ font-size: 130%;
 .bottomlisttxt {
 color:white;
 position: absolute;
-top: 940px;
-left: 76%;
+top: 980px;
+left: 30%;
 right: 2%;
 font-size: 20px;
 }
