@@ -53,23 +53,40 @@ top: 440px;
 left: 70%;
 right: 3%;
 font-size: 100%;
+56
 }
-
+57
+​
+58
 .artistlisttxt{
+59
 color:white;
+60
 position: absolute;
-top: 880px;
+61
+top: 890px;
+62
 left: 71%;
+63
 right: 2%;
+64
 font-size: 120%;
+65
 }
-
-
+66
+​
+67
+​
+68
 .finaltxt {
+69
 color:white;
+70
 position: absolute;
+71
 top: 960px;
-left: 75%;
+72
+left: 50%;
 right: 6%;
 font-size: 130%;
 
