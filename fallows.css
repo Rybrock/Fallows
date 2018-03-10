@@ -21,7 +21,7 @@ width: 100%;
 }*/
 
 .mainheading {
-font-size: 860%;
+font-size: 800%;
 font-family: "Dancing Script", cursive;
 color: red;
 position: absolute;
@@ -49,7 +49,7 @@ font-size: 130%;
 .artistlist{
 color:white;
 position: absolute;
-top: 405px;
+top: 440px;
 left: 70%;
 right: 3%;
 font-size: 100%;
@@ -58,7 +58,7 @@ font-size: 100%;
 .artistlisttxt{
 color:white;
 position: absolute;
-top: 875px;
+top: 880px;
 left: 71%;
 right: 2%;
 font-size: 120%;
@@ -68,7 +68,7 @@ font-size: 120%;
 .finaltxt {
 color:white;
 position: absolute;
-top: 970px;
+top: 940px;
 left: 75%;
 right: 6%;
 font-size: 130%;
