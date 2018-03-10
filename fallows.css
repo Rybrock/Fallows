@@ -54,10 +54,9 @@ font-size: 80%;
 
 .galleryimg {
 	width: 300px;
-	float: left;
-	margin-left: 8%;
+	margin-bottom: 1%;
 	border: 2px solid #ffffff;
-	margin-bottom: 2%;
+	
 
 
 }
@@ -72,6 +71,7 @@ font-size: 80%;
 	border-bottom: 2px solid #000000;
 	width: 15%;
 	background: #666666;
+	color: #ffffff;
 }
 
 
