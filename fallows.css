@@ -1,5 +1,4 @@
 
-
  body {
 padding: 0px;
 margin: 0px;
@@ -82,11 +81,8 @@ font-size: 120%;
 .finaltxt {
 color:white;
 position: absolute;
-<<<<<<< HEAD
 top: 970px;
-=======
 top: 940px;
->>>>>>> f09be303e7a06941bd4045ef1b51478b140481b0
 left: 10%;
 right: 2%;
 font-size: 130%;
