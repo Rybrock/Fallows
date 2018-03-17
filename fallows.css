@@ -5,17 +5,13 @@ padding: 0px;
 margin: 0px;
 }
 
-<<<<<<< HEAD
 
-
-=======
->>>>>>> f09be303e7a06941bd4045ef1b51478b140481b0
 .mainback {
 background-position: center;
 background-repeat: no-repeat;
 background-size: contain;
 height: 100%;
-width: 115%;
+width: 110%;
 resize: both;
 }
 
