@@ -9,8 +9,8 @@ margin: 0px;
 background-position: center;
 background-repeat: no-repeat;
 background-size: contain;
+width: 115%;
 height: 100%;
-width: 110%;
 resize: both;
 }
 
@@ -21,6 +21,7 @@ color: red;
 position: absolute;
 top: 90px;
 left: 5%;
+margin: 0px;
 }
 
 div .mainheading {
