@@ -82,6 +82,7 @@ font-size: 120%;
 color:white;
 position: absolute;
 top: 970px;
+top: 940px;
 left: 10%;
 right: 2%;
 font-size: 130%;
@@ -116,16 +117,7 @@ padding-right: 10px;
 	color: #ffffff;
 }
 
- #footer {
-	width: 114%;
-	height: 40px;
-	background-color: darkgrey;
-	color: black;
-	margin-top: 0px;
-	padding-top: 10px;
-	padding-left: 10px;
-	font-weight: bold;
-}
+
 
 
 
