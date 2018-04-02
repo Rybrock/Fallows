@@ -1,3 +1,6 @@
+
+
+
  body {
 padding: 0px;
 margin: 0px;
@@ -8,13 +11,13 @@ margin: 0px;
 background-position: center;
 background-repeat: no-repeat;
 background-size: contain;
-width: 115%;
-height: 100%;
+width: 110%;
+height: auto;
 resize: both;
 }
 
 .mainheading {
-font-size: 850%;
+font-size: 840%;
 font-family: "Dancing Script", cursive;
 color: red;
 position: absolute;
@@ -23,7 +26,7 @@ left: 5%;
 margin: 0px;
 }
 
-div .mainheading {
+ .mainheading {
 width: 780px;
 height: auto;
 }
@@ -33,10 +36,12 @@ color: blue;
 position: absolute;
 top: 220px;
 left: 44%;
-font-size: 215%;
+font-size: 212%;
+padding-bottom: 0px;
+margin-bottom: 0px;
 }
 
-div .firstsubhead {
+ .firstsubhead {
 width: 500px;
 height: auto;
 }
@@ -50,7 +55,7 @@ right: 8%;
 font-size: 130%;
 }
 
-div .toplisttxt {
+ .toplisttxt {
 width: 500px;
 height: auto;
 }
@@ -64,7 +69,7 @@ right: 3%;
 font-size: 100%;
 }
 
-div .artistlist {
+ .artistlist {
 width: 380px;
 height: auto;
 }
@@ -87,7 +92,7 @@ right: 2%;
 font-size: 130%;
 }
 
-div .finaltxt {
+ .finaltxt {
 width: 950px;
 height: auto;
 padding-right: 10px;
@@ -117,7 +122,7 @@ padding-right: 10px;
 }
 
  #footer {
-	width: 114%;
+	width: 109%;
 	height: 40px;
 	background-color: darkgrey;
 	color: black;
